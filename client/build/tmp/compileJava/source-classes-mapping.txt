@@ -1,0 +1,46 @@
+gui/SoapGUI.java
+ gui.SoapGUI
+ gui.SoapGUI$1
+ gui.SoapGUI$2
+ gui.SoapGUI$3
+ gui.SoapGUI$4
+ gui.SoapGUI$5
+ gui.SoapGUI$6
+ gui.SoapGUI$7
+ gui.SoapGUI$8
+ gui.SoapGUI$9
+soap/ReservationBooking.java
+ soap.ReservationBooking
+rest/Flight.java
+ rest.Flight
+gui/RestGUI.java
+ gui.RestGUI
+ gui.RestGUI$1
+ gui.RestGUI$2
+ gui.RestGUI$3
+ gui.RestGUI$4
+ gui.RestGUI$5
+ gui.RestGUI$6
+ gui.RestGUI$7
+ gui.RestGUI$8
+ gui.RestGUI$9
+ClientMain.java
+ ClientMain
+soap/FlightSeat.java
+ soap.FlightSeat
+soap/ReservationBookingServiceService.java
+ soap.ReservationBookingServiceService
+soap/package-info.java
+ soap.package-info
+soap/ArrayListOfFlight.java
+ soap.ArrayListOfFlight
+rest/FlightSeat.java
+ rest.FlightSeat
+soap/Flight.java
+ soap.Flight
+soap/ArrayListOfObject.java
+ soap.ArrayListOfObject
+rest/RESTFlightData.java
+ rest.RESTFlightData
+soap/ObjectFactory.java
+ soap.ObjectFactory
